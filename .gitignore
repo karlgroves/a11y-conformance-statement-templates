@@ -1,0 +1,10 @@
+.DS_Store
+
+
+### PHP storm ###
+.idea
+.idea/*
+.idea/workspace.xml
+atlassian-ide-plugin.xml
+.settings
+

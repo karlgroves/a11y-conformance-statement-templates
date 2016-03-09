@@ -1,2 +1,4 @@
-# a11y-conformance-statement-templates
-A handful of HTML-based accessibility conformance statements, based on Section 508 and WCAG
+# Accessibility Conformance Statement Templates
+
+This repository holds a handful of HTML-based conformance statements for Section 508 and WCAG.  Eventually I'd like to add others and/ or translated versions.
+
