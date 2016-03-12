@@ -1,0 +1,8 @@
+.sc-title{
+    font-weight: bold;
+    display: block;
+}
+
+tbody th{
+    width: 33%;
+}
